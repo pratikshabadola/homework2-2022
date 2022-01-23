@@ -40,12 +40,12 @@ div{
     border-color: #FFFFFF;
 }
 
-#intro {
+.intro {
     border-radius: 15px;
     margin-top: 15px;
 }
 
-#red {
+.red {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
@@ -53,7 +53,7 @@ div{
     border-left: 10px;
 }
 
-#blue {
+.blue {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
@@ -61,7 +61,7 @@ div{
     border-right: 10px;
 }
 
-#yellow {
+.yellow {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
@@ -70,7 +70,7 @@ div{
     /* TODO: come back for 12E, 12F */
 }
 
-#green {
+.green {
     background-color: #00EB00;
     text-align:left;
     margin-right: 50px;
